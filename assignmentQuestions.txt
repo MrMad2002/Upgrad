@@ -5,3 +5,4 @@ Are premitive datatype only contain number?
 Why we need float if we had double?
 How can I choose any repository in case of multiple repositories?
 How to open any files using cmd prompt?
+adgj + mptw
