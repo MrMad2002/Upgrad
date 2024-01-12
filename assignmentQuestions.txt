@@ -1,0 +1,11 @@
+git & GitHub (6 jan,2024)
+How to remove file from pushed git ?
+Why some branches are main and some are master?
+How to remove file from github?
+How can I choose any repository in case of multiple repositories?
+How to open any files using cmd prompt?
+If I deleted a git branch by mistake, how can I recover it? 
+
+JAVA Variables & datatype (7 jan, 2024)
+Are premitive datatype only contain number?
+Why we need float if we had double?
